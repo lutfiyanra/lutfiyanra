@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfiyanra&label=Profile%20views&color=0e75b6&style=flat" alt="lutfiyanra" /> </p>
 
 
-- 🌱 I’m currently learning **Selenium, Serenity, Rest Assured, Appium**
+- 🌱 I’m currently learning **Selenium, Serenity, Rest Assured, and Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lutfiyanra?tab=repositories](https://github.com/lutfiyanra?tab=repositories)
 
 - 📝 [https://lutfiyanra.github.io](https://lutfiyanra.github.io)
 
-- 💬 Ask me about **Manual and Automation Testing on API and Web**
+- 💬 Ask me about **Manual and Automation Testing both on API and Web**
 
 - 📫 Reach me at **lutfiyanra@gmail.com**
 
