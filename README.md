@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfiyanra&label=Profile%20views&color=0e75b6&style=flat" alt="lutfiyanra" /> </p>
 
 
-- 🌱 I’m currently learning **Selenium, Serenity, Rest Assured, and Playwright**
+- 🌱 I’m currently learning **Selenium, Serenity, Rest Assured, Katalon, and Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lutfiyanra?tab=repositories](https://github.com/lutfiyanra?tab=repositories)
 
